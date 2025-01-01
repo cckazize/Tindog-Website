@@ -198,7 +198,11 @@ footer p {
 }
 /* icon  */
 #footer i{
+  margin-top: 5px;
   color: #062e51;
+  background-color: rgb(246, 245, 248);
+  font-size: 2rem;
+  margin-right: 1rem;
 }
 
 @media (max-width:1028px){
