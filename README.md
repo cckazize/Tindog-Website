@@ -1,2 +1,2 @@
 # Tindog-Website extension
-#link : https://cckazize.github.io/Tindog-Website/
+Link : https://cckazize.github.io/Tindog-Website/
